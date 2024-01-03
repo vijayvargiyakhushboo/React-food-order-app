@@ -1,6 +1,7 @@
 
 import { restraObj } from '../mock-data/restro-list';
 import RestroCard from './RestroCard';
+import './RestroCard.css';
 
 const Body = () => {
     return (
